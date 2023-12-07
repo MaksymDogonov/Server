@@ -725,7 +725,6 @@ const reactCourse = [
     },
 ]
 
-
 const jsCourseHomeworks = [
     { id: 1, title: 'Variables mix', isDone: false, dueDate: "August 7, 2022", difficulty: 2 },
     { id: 2, title: 'Magic conditions', isDone: true, dueDate: "August 10, 2022", difficulty: 3 },
