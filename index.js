@@ -695,7 +695,7 @@ const reactCourse = [
             { id: 1, title: 'Introduction', link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction' },
             { id: 2, title: 'JavaScript Introduction', link: 'https://www.w3schools.com/js/js_intro.asp' },
         ],
-        complexity: 'Easy',
+        complexity: 'Intermediate',
     },
     {
         id: 28,
@@ -708,7 +708,7 @@ const reactCourse = [
             { id: 1, title: 'Introduction', link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction' },
             { id: 2, title: 'JavaScript Introduction', link: 'https://www.w3schools.com/js/js_intro.asp' },
         ],
-        complexity: 'Easy',
+        complexity: 'Advanced',
     },
     {
         id: 29,
